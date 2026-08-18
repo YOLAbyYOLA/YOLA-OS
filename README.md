@@ -2,7 +2,6 @@
 
 **YOLA** es un sistema operativo personal, vivo, que corre en tu navegador.
 Este repositorio es el **deploy público** del YOLA OS (escritorio web SolidJS).
-Código fuente en NO-OPEN-YOLA/si-yola (privado).
 
 > Probar en vivo: https://www.yolabysayri.com/hola-yola/
 
