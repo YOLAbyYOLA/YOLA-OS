@@ -9,8 +9,8 @@
       "repo": "github.com/NO-OPEN-YOLA/yola-code",
       "icon": "🧑‍💻",
       "category": "Dev",
-      "description": "El editor nativo de YOLA — 2 naturalezas (app del OS + binario independiente). El ejemplo del patrón de apps nativas.",
-      "version": "0.8.0",
+      "description": "El editor nativo de YOLA — 2 naturalezas. v0.9.0: Modo Visual — builder drag&drop, plantillas, biblioteca de componentes y export .yola-app con checksum firmado.",
+      "version": "0.9.0",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/NO-OPEN-YOLA/yola-code@main/manifest.json",
       "permissions": ["notify", "openApp", "files"]
     }
