@@ -9,8 +9,8 @@
       "repo": "github.com/NO-OPEN-YOLA/yola-code",
       "icon": "🧑‍💻",
       "category": "Dev",
-      "description": "El editor nativo de YOLA — 2 naturalezas. v0.10.0: F3 adapters web — el mismo árbol del Modo Visual exporta a yola-native, Solid o React (.zip).",
-      "version": "0.10.0",
+      "description": "El editor nativo de YOLA — 2 naturalezas. v0.11.0: F4 área BACKEND — recursos tipados + API REST Node sin deps, además de yola-native, Solid y React.",
+      "version": "0.11.0",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/NO-OPEN-YOLA/yola-code@main/manifest.json",
       "permissions": ["notify", "openApp", "files"]
     }
